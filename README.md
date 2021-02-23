@@ -14,6 +14,8 @@
 
 - HTML
 - CSS
+- Git
+- JavaScript
 - jQuery
 - React
 - Autocad
