@@ -9,6 +9,7 @@
 | 15/02/2021 | W3Schools | HTML, CSS, JS | Certified Front End Developer (Passed with Excellence: 95+)|  
 | 17/02/2021 | Microsoft | 98-382 | Introduction to Programming using JavaScript (Score: 92)|
 | 24/02/2021 | MongoDB | M201 | MongoDB Performance|
+| 24/02/2021 | MongoDB | A300 | Atlas Security|
 
 ## LinkedIn Badges
 
