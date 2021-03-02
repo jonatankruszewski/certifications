@@ -10,6 +10,7 @@
 | 17/02/2021 | Microsoft | 98-382 | Introduction to Programming using JavaScript (Score: 92)|
 | 24/02/2021 | MongoDB | M201 | MongoDB Performance|
 | 24/02/2021 | MongoDB | A300 | Atlas Security|
+| 02/03/2021 | Microsoft | 98-375 | HTML5 Application Development Fundamentals (Score: 94)|
 
 ## LinkedIn Badges
 
