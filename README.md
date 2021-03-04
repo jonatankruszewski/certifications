@@ -11,6 +11,7 @@
 | 24/02/2021 | MongoDB | M201 | MongoDB Performance|
 | 24/02/2021 | MongoDB | A300 | Atlas Security|
 | 02/03/2021 | Microsoft | 98-375 | HTML5 Application Development Fundamentals (Score: 94)|
+| 03/03/2021 | Microsoft | 98-383 | HTML5 Application Development Fundamentals (Score: 86)|
 
 ## LinkedIn Badges
 
