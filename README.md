@@ -24,3 +24,4 @@
 - Autocad
 - MongoDB
 - Python
+- NoSQL
