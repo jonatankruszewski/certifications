@@ -2,6 +2,7 @@
 
 | Date       | Issuing entity   | Type | Identifier                                                                               | Full name                                                 | Score   |
 | ---------- | :--------------- | :--- | :--------------------------------------------------------------------------------------- | :-------------------------------------------------------- | :------ |
+| 21/09/2022 | Microsoft Azure  | Exam | [DP-900](https://www.credly.com/badges/ebfaff37-7260-410e-9aa4-6c97dab03b37/public_url)  | Microsoft Azure Data Fundamentals DP-900                  | 912     |
 | 13/09/2022 | Microsoft Azure  | Exam | [AZ-900](https://www.credly.com/badges/bba62d59-74c2-4d9a-af89-b7f342710dd9/public_url)  | Microsoft Azure Fundamentals AZ-900                       | 820     |
 | 03/09/2022 | Scrum.org        | Exam | [PSK - I](https://www.credly.com/badges/90fde7a7-f08c-4126-ab1d-eb7ec761fbdc/public_url) | Professional Scrum with Kanban (PSK I)                    | 97      |
 | 16/08/2022 | Scrum.org        | Exam | [SPS](https://www.credly.com/badges/0311192b-2193-4e2e-83d7-3df95f310cc7/public_url)     | Scaled Professional Scrum                                 | 87      |
