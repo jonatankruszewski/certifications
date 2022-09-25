@@ -2,6 +2,7 @@
 
 | Date       | Issuing entity   | Type | Identifier                                                                               | Full name                                                 | Score   |
 | ---------- | :--------------- | :--- | :--------------------------------------------------------------------------------------- | :-------------------------------------------------------- | :------ |
+| 16/08/2022 | Scrum.org        | Exam | [SPS](https://www.credly.com/badges/0311192b-2193-4e2e-83d7-3df95f310cc7/public_url)     | Scaled Professional Scrum                                 | 87      |
 | 15/08/2022 | Scrum.org        | Exam | [PAL-EBM](https://www.credly.com/badges/c583ba79-97b7-4a6e-ac8d-44d7bbaf9e19/public_url) | Professional Agile Leadership - Evidence-Based Management | 92      |
 | 15/08/2022 | Scrum.org        | Exam | [PAL I](https://www.credly.com/badges/61d7a70a-659a-4553-a785-41e0bc8c0a47/public_url)   | Professional Agile Leadership I                           | 92      |
 | 20/05/2022 | Scrum.org        | Exam | [PSPO II](https://www.credly.com/badges/8d3b7df8-0b88-490a-9dbb-bb2cc9b39f09/public_url) | Professional Scrum Product Owner II                       | 93      |
