@@ -1,7 +1,11 @@
-## Certifications
+# Certifications
 
-| Date       | Issuing entity   | Type | Identifier                                                                               | Full name                                                 | Score   |
-| ---------- | :--------------- | :--- | :--------------------------------------------------------------------------------------- | :-------------------------------------------------------- | :------ |
+| Date | Issuing entity | Type | Identifier | Full name | Score |
+| ---- | :------------- | :--- | :--------- | :-------- | :---- |
+| 05/09/2023 | Gitlab           | Exam | [Git](https://www.credly.com/badges/5262a851-7a37-48bf-9c8d-77fd85112dd6/public_url)     |GitLab Certified Git Associate                             | 100     |
+| 27/05/2023 | Scrum.org        | Exam | [PSF](https://www.credly.com/badges/5262a851-7a37-48bf-9c8d-77fd85112dd6/public_url)     | Professional Scrum Facilitation Skills                    | 85      |
+| 26/05/2023 | Scrum.org        | Exam | [PSU I](https://www.credly.com/badges/fcb28525-cb86-46bd-85ad-63856073d83d/public_url)   | Professional Scrum with User Experience I                 | 100     |
+| 21/09/2022 | Microsoft Azure  | Exam | [AI-900](https://www.credly.com/badges/a696e3cf-9b95-4e2f-a644-10d4a530e848/public_url)  | Microsoft Azure AI Fundamentals DP-900                    | 950     |
 | 21/09/2022 | Microsoft Azure  | Exam | [DP-900](https://www.credly.com/badges/ebfaff37-7260-410e-9aa4-6c97dab03b37/public_url)  | Microsoft Azure Data Fundamentals DP-900                  | 912     |
 | 13/09/2022 | Microsoft Azure  | Exam | [AZ-900](https://www.credly.com/badges/bba62d59-74c2-4d9a-af89-b7f342710dd9/public_url)  | Microsoft Azure Fundamentals AZ-900                       | 820     |
 | 03/09/2022 | Scrum.org        | Exam | [PSK - I](https://www.credly.com/badges/90fde7a7-f08c-4126-ab1d-eb7ec761fbdc/public_url) | Professional Scrum with Kanban (PSK I)                    | 97      |
