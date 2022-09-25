@@ -15,6 +15,7 @@
 | 09/03/2021 | Microsoft        | 98-381        | Introduction to Programming Using Python               | 88    |
 | 11/03/2021 | Python Institute | PCEP-30-01    | Certified Entry-Level Python Programmer                | 80    |
 | 20/03/2021 | Python Institute | PCAP-31-03    | Certified Associate in Python Programming              | 79    |
+| 30/02/2021 | MongoDB          | M103          | Basic Cluster Administration                           |       |
 
 ## LinkedIn Badges
 
