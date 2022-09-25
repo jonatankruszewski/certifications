@@ -19,7 +19,7 @@
 | 09/05/2021 | MongoDB          | M112          | Diagnostic Thinking                            |       |
 | 10/05/2021 | MongoDB          | M100          | MongoDB for SQL Pros                           |       |
 | 23/09/2021 | MongoDB          | C100DEV       | Certified Developer                            | 593   |
-| 15/09/2021 | AWS              | CCP           | Certified Cloud Practicioner                   |       |
+| 15/09/2021 | AWS              | CCP           | Certified Cloud Practicioner                   | 762   |
 
 ## LinkedIn Badges
 
