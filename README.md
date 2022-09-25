@@ -48,3 +48,9 @@
 - Python
 - NoSQL
 - NodeJS
+- Aws Lambda
+- MySQL
+- Agile Methodologies
+- Amazon Web Services (AWS)
+- Front End Development
+- REST API's
