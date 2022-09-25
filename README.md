@@ -3,7 +3,7 @@
 | Date       | Issuing entity   | Type | Identifier                                                                               | Full name                                      | Score   |
 | ---------- | :--------------- | :--- | :--------------------------------------------------------------------------------------- | :--------------------------------------------- | :------ |
 | 15/08/2022 | Scrum.org        | Exam | [PAL I](https://www.credly.com/badges/61d7a70a-659a-4553-a785-41e0bc8c0a47/public_url)   | Professional Agile Leadership I                | 92      |
-| 20/05/2022 | Scrum.org        | Exam | [PSPO II](https://www.credly.com/badges/8d3b7df8-0b88-490a-9dbb-bb2cc9b39f09/public_url) | Professional Scrum Product Owner II            | 92      |
+| 20/05/2022 | Scrum.org        | Exam | [PSPO II](https://www.credly.com/badges/8d3b7df8-0b88-490a-9dbb-bb2cc9b39f09/public_url) | Professional Scrum Product Owner II            | 93      |
 | 27/01/2022 | Scrum.org        | Exam | [PSPO I](https://www.credly.com/badges/a25863e1-bdad-47f9-a0e2-01dcc2427ca7/public_url)  | Professional Scrum Product Owner I             | 90      |
 | 22/01/2022 | Scrum.org        | Exam | [PSD I](https://www.credly.com/badges/08780305-13a6-4b56-84a9-84cfd3709df2/public_url)   | Professional Scrum Developer I                 | 90      |
 | 15/01/2022 | Scrum.org        | Exam | [PSM II](https://www.credly.com/badges/7a01bf8f-72ef-4fda-b7c4-3742b09d6517/public_url)  | Professional Scrum Master II                   | 94      |
