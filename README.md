@@ -2,6 +2,8 @@
 
 | Date       | Issuing entity       | Type | Identifier                                                                               | Full name                                                 | Score   |
 |------------|:---------------------| :--- |:-----------------------------------------------------------------------------------------|:----------------------------------------------------------|:--------|
+| 19/04/2024 | MongoDB              | Exam | [MongoDB Data Modeling](https://www.credly.com/badges/ef232374-caa1-4976-9c01-aa761ee11e46/public_url)              | MongoDB Data Modeling                                     | No info |
+| 13/03/2024 | React Certifications | Exam | [React L3](https://interstate21.com/certificate/?code=5C12GND)                           | React Certification Level 3                               | No info |
 | 23/02/2024 | React Certifications | Exam | [React L2](https://interstate21.com/certificate/?code=5B22EJ7)                           | React Certification Level 2                               | 90      |
 | 20/02/2024 | Scrum.org            | Exam | [PSPBM](https://www.credly.com/badges/c99785f0-547b-4fb7-94e1-e570bc402d6f/public_url)   | Professional Scrum Facilitation Skills                    | 90      |
 | 15/02/2024 | React Certifications | Exam | [React L1](https://interstate21.com/certificate/?code=5B14DIP)                           | React Certification Level 1                               | 83      |
