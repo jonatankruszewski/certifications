@@ -2,7 +2,11 @@
 
 | Date       | Issuing entity       | Type | Identifier                                                                                             | Full name                                                 | Score   |
 |------------|:---------------------| :--- |:-------------------------------------------------------------------------------------------------------|:----------------------------------------------------------|:--------|
-| 26/06/2024 | Github               | Exam | [Github Foundations](https://www.credly.com/badges/f467571d-4f47-4317-b09d-ebc46c7dfcb8)    | Github Foundations                                        | 80       |
+| 30/11/2024 | Github               | Exam | [Github Copilot](https://www.credly.com/badges/abf59625-9900-4f99-ad13-3bb6edeec0db)                   | Github Copilot                                            | 81      |
+| 06/09/2024 | Github               | Exam | [Github Administration](https://www.credly.com/badges/68b87579-8851-493f-a850-11169fee8d90)            | Github Advanced Security                                  | 68      |
+| 12/08/2024 | Github               | Exam | [Github Advanced Security](https://www.credly.com/badges/68b87579-8851-493f-a850-11169fee8d90)         | Github Advanced Security                                  | 71      |
+| 22/07/2024 | Github               | Exam | [Github Actions](https://www.credly.com/badges/7052f978-811c-4cc8-8caf-0696aabd3588/)                  | Github Actions                                            | 77      |
+| 26/06/2024 | Github               | Exam | [Github Foundations](https://www.credly.com/badges/f467571d-4f47-4317-b09d-ebc46c7dfcb8)               | Github Foundations                                        | 80      |
 | 19/04/2024 | MongoDB              | Exam | [MongoDB Data Modeling](https://www.credly.com/badges/ef232374-caa1-4976-9c01-aa761ee11e46/public_url) | MongoDB Data Modeling                                     | No info |
 | 13/03/2024 | React Certifications | Exam | [React L3](https://interstate21.com/certificate/?code=5C12GND)                                         | React Certification Level 3                               | No info |
 | 23/02/2024 | React Certifications | Exam | [React L2](https://interstate21.com/certificate/?code=5B22EJ7)                                         | React Certification Level 2                               | 90      |
